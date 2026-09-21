@@ -8,11 +8,11 @@ loadRespecWithConfiguration({
   specType: "HR",
   pubDomain: "dk",
   shortName: "template",
- // publishDate: "2023-06-21",
-  publishVersion: "0.0.3",
+  publishDate: "2025-11-01",
+  publishVersion: "0.0.1",
 
   // TODO: Verwijder voordat de release plaats vindt
-  //latestVersion: "https://github.com/logius-standaarden/respec-template/",
+  latestVersion: "https://github.com/logius-standaarden/respec-template/",
   prevVersion: [],
 
   editors:
