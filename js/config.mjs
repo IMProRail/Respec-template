@@ -12,7 +12,7 @@ loadRespecWithConfiguration({
   publishVersion: "0.0.1",
 
   // TODO: Verwijder voordat de release plaats vindt
-  latestVersion: "https://github.com/logius-standaarden/respec-template/",
+  //latestVersion: "https://github.com/logius-standaarden/respec-template/",
   prevVersion: [],
 
   editors:
