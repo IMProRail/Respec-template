@@ -6,7 +6,7 @@ loadRespecWithConfiguration({
   license: "cc-by",
   specStatus: "WV",
   specType: "HR",
-  pubDomain: "dk",
+  pubDomain: "respec",
   shortName: "template",
   publishDate: "2025-11-01",
   publishVersion: "0.0.1",
