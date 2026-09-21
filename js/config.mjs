@@ -12,24 +12,24 @@ loadRespecWithConfiguration({
   publishVersion: "0.0.3",
 
   // TODO: Verwijder voordat de release plaats vindt
-  latestVersion: "https://github.com/logius-standaarden/respec-template/",
+  //latestVersion: "https://github.com/logius-standaarden/respec-template/",
   prevVersion: [],
 
   editors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://logius.nl",
+        name: "ProRail",
+        company: "ProRail",
+        companyURL: "https://prorail.nl",
       }
     ],
   authors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://logius.nl",
+        name: "ProRail",
+        company: "ProRail",
+        companyURL: "https://prorail.nl",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/IMProRail/ReSpec-template",
 });
