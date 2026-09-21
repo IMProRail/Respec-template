@@ -8,7 +8,7 @@ loadRespecWithConfiguration({
   specType: "HR",
   pubDomain: "dk",
   shortName: "template",
-  publishDate: "2023-06-21",
+ // publishDate: "2023-06-21",
   publishVersion: "0.0.3",
 
   // TODO: Verwijder voordat de release plaats vindt
