@@ -1,15 +1,13 @@
-name: Build and Check
+name: Build ReSpec
+
 on:
-  workflow_dispatch:
-  pull_request:
   push:
     branches:
       - main
+      - develop
+  pull_request:
+  workflow_dispatch:
+
 jobs:
   build:
-    name: Build
-    uses: Logius-standaarden/Automatisering/.github/workflows/build.yml@main
-  check:
-    needs: build
-    name: Check
-    uses: Logius-standaarden/Automatisering/.github/workflows/check.yml@main
+    uses: IMProRail/respec-assets/.github/workflows/build.yml@main
