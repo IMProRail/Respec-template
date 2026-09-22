@@ -20,7 +20,7 @@ loadRespecWithConfiguration({
       {
         name: "ProRail",
         company: "ProRail",
-        companyURL: "https://prorail.nl",
+        companyURL: "https://www.prorail.nl",
       }
     ],
   authors:
@@ -28,7 +28,7 @@ loadRespecWithConfiguration({
       {
         name: "ProRail",
         company: "ProRail",
-        companyURL: "https://prorail.nl",
+        companyURL: "https://www.prorail.nl",
       }
     ],
   github: "https://github.com/IMProRail/ReSpec-template",
