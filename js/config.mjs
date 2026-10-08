@@ -84,16 +84,15 @@ loadRespecWithConfiguration({
     ],
   github: "https://github.com/IMProRail/ReSpec-template",
 
-  
 
   // Create PDF and link to file in header (optional):
   // TODO: Change the filename as preferred.
   //alternateFormats: [
-   //   {
-   //       label: "pdf",
-   //       uri: "static/template.pdf",
-   //   },
-  // ],
+      {
+         label: "pdf",
+          uri: null,
+      },
+   ],
 
   //
   // Lokale lijst voor bibliografie
