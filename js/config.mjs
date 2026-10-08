@@ -92,10 +92,10 @@ loadRespecWithConfiguration({
          label: "pdf",
          uri: null
       },
-      {
-         label: "docx",
-         uri: null
-      }
+     // {
+   //      label: "docx",
+   //      uri: null
+   //   },
   ],
 
   //
