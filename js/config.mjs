@@ -46,7 +46,7 @@ loadRespecWithConfiguration({
   specType: "hr",
     
   //edDraftURI = De URI van de draft version. Deze wordt automatisch afgeleid van de github URI; maar kan hier overschreven worden. 
-	//edDraftURI: ["https://improrail.github.io", "/", "Respec-template"],
+	edDraftURI: ["https://improrail.github.io", "/", "Respec-template"],
 
   //-- publishDate is verplicht. Als je werkversie gekozen hebt  dan pakt Respec
   //-- de pushdate maar de publishDate is nog steeds verplicht.
