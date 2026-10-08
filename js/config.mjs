@@ -103,7 +103,6 @@ loadRespecWithConfiguration({
   //
   localBiblio: 
   {
-    ...organisationConfig.localBiblio,
     MIM12: {
       id: "MIM12",
       title: "MIM - Metamodel Informatie Modellering (Versie 1.2)",
