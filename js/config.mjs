@@ -15,6 +15,7 @@ loadRespecWithConfiguration({
   //-- Regel: shortName mag geen hoofdletters bevatten.
   shortName: "respec",
   pubDomain: "respec",
+  //fileName: "respec",
 
   //-- TODO licentie is verplicht
   //-- "cc0" Creative Commons 0 Public Domain Dedication
@@ -57,9 +58,9 @@ loadRespecWithConfiguration({
   publishVersion: [],
  
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beide aan/uit! 
-  //previousPublishDate: "2026-07-10",
-  //previousMaturity: "CV",
-  //prevVersion: "0.0.1",
+  previousPublishDate: "2026-07-10",
+  previousMaturity: "CV",
+  //previousVersion: "0.0.1",
 
   //-- TODO: de namen van de Editor(s) / Redacteur(en)
   //-- vul in: per Editor: name:, company:, companyURL: 
